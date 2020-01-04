@@ -1,5 +1,7 @@
 # list_products
 
-Run yarn install
+Projeto criado em react native
 
-Execute this project: react-native run android or react-native run ios 
+-> Clone o projeto
+-> Rode yarn install para instalar as dependências 
+-> Execute este projeto: react-native run android ou react-native run ios 
